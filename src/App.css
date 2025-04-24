@@ -3,3 +3,16 @@ a{
     display: block;
     color: #000000;
 }
+
+.card-wrapper{
+    background-color: lightblue;
+    border-radius: 30px;
+}
+
+.card-wrapper p {
+    font-size: 15px;
+}
+.duration{
+    width: 120px;
+    text-align: center;
+}

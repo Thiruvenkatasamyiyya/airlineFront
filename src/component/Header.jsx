@@ -2,11 +2,11 @@ import '../App.css'
 
 function Header (){
     return(
-        <div>
+        <div className=''>
             <div className=" p-3 mx-4">
                 <div className="header-wrapper d-flex justify-content-between">
                     <div>
-                        <img src="../assets/header/header.png" alt="" />
+                        <img src='../assets/header/header.png' alt="" />
                     </div>
                     <div>
                         <a href="">Search destinaion</a>
